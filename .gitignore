@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 traffic/gtsrb/
 *zip
+traffic/gtsrb-small
 
