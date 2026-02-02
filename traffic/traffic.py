@@ -1,12 +1,13 @@
-import cv2
+import cv2#image processing
 import numpy as np
 import os
 import sys
-import tensorflow as tf
+import tensorflow as tf#neural net
 import datetime
 
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split#ML
 from pathlib import Path
+
 EPOCHS = 10
 IMG_WIDTH = 30
 IMG_HEIGHT = 30
